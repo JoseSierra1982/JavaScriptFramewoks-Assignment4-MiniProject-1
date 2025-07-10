@@ -1,0 +1,17 @@
+body {
+  background-color: #f4f8fc;
+}
+h1, h2 {
+  color: #003366;
+}
+
+
+.location-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.location-section {
+  margin-top: 60px;
+}

@@ -1,0 +1,28 @@
+{
+  "name": "assignment4-miniproject-1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseSierra1982/Assignment4-MiniProject-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseSierra1982/Assignment4-MiniProject-1/issues"
+  },
+  "homepage": "https://github.com/JoseSierra1982/Assignment4-MiniProject-1#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

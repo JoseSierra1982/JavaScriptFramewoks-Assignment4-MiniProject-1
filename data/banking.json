@@ -1,0 +1,32 @@
+[
+  {
+    "bank": "TrustBank",
+    "currency": "USD/CAD",
+    "rate": 1.3225
+  },
+  {
+    "bank": "Royal Bank of Canada",
+    "currency": "EUR/CAD",
+    "rate": 1.4357
+  },
+  {
+    "bank": "Scotiabank",
+    "currency": "GBP/CAD",
+    "rate": 1.7213
+  },
+  {
+    "bank": "TD Canada Trust",
+    "currency": "USD/CAD",
+    "rate": 1.3240
+  },
+  {
+    "bank": "Bank of Montreal",
+    "currency": "JPY/CAD",
+    "rate": 0.0091
+  },
+  {
+    "bank": "CIBC",
+    "currency": "AUD/CAD",
+    "rate": 0.8972
+  }
+]
